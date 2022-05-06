@@ -15,12 +15,11 @@
   <img src="https://github.com/YejinS.png" width="100">
 </a>
   
-  <a href="https://github.com/YejinS">
-  <img src="https://github.com/YejinS.png" width="100">
+<a href="https://github.com/nahyeonDev">
+  <img src="https://github.com/nahyeonDev.png" width="100">
 </a>
-  
-  <a href="https://github.com/YejinS">
-  <img src="https://github.com/YejinS.png" width="100">
+  <a href="https://github.com/park-yeon-ju">
+  <img src="https://github.com/park-yeon-ju.png" width="100">
 </a>
   
 </p>
