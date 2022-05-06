@@ -34,6 +34,8 @@
 - git commit -m "윤영진: 모험가 길드"
 
 3. 현재 깃 상태가 본인 브랜치인지 확인 
+
+
 ![image](https://user-images.githubusercontent.com/83503188/167152102-b5eb03ca-94a6-4360-95ea-4886d3f6b176.png)
 
 
