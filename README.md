@@ -30,7 +30,7 @@
 - [x] push 전에 반드시 main브랜치를 `pull`  
   - `git pull origin main`
 
-- [x] commit rule: 본인 이름: 문제 이름
+- [x] commit rule: `본인 이름: 문제 이름`
   - `git commit -m "윤영진: 모험가 길드"`
 
 - [x] 현재 깃 상태가 본인 브랜치인지 확인 
