@@ -78,17 +78,13 @@ public class Main {
     }
 
     private static boolean dfs() {
-
         for (Point teacher : teachers) {
-
             for (int k = 0; k < 4; k++) {
                 int x = teacher.x;
                 int y = teacher.y;
-
                 while (true) {
                     int nx = x + points[k].x;
                     int ny = y + points[k].y;
-
                     if (nx < 0 || nx >= N || ny < 0 || ny >= N || temp[nx][ny].equals("O")){
                         break;
                     }
