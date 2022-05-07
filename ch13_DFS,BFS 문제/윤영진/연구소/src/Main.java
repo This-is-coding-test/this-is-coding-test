@@ -17,7 +17,6 @@ public class Main {
     public static int result = 0;
     public static int[][] map;
     public static int[][] temp;
-    public static int count = 0;
     public static Point[] points = {
             new Point(-1, 0), new Point(0, -1), new Point(0, 1), new Point(1, 0)
     };

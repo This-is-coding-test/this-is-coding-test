@@ -40,7 +40,6 @@ public class Main {
         }
 
         for (int i = 0; i < 4; i++) {
-
             if (op[i] > 0) {
                 op[i]--;
                 switch (i) {
@@ -58,9 +57,8 @@ public class Main {
                         break;
                 }
                 op[i]++;
-
             }
         }
-
+        return;
     }
 }

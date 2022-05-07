@@ -58,7 +58,6 @@ public class Main {
             for (int j = 0; j < N; j++) {
                 int x = Integer.parseInt(st.nextToken());
                 map[i][j] = x;
-
                 if (x != 0)
                     virusList.add(new Virus(i, j, x, 0));
             }
